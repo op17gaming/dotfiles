@@ -1,8 +1,13 @@
 # Dotfiles
 
 This contains the config files for my arch linux setup!
+I would really love to let you use it as you will. fork it. learn from it. use it as inspiration. let your mind go wild!
 
-on an (optional) fresh arch installation (archinstall or archfi will work too)
+*************************************************************************************************************************
+
+On an (optional) fresh arch installation (archinstall or archfi will work too),
+install the following packages as listed below (some are optional!)
+
 - `yay` (what I used to install these packages)
 - `i3-gaps`
 - `rofi`
@@ -21,6 +26,8 @@ on an (optional) fresh arch installation (archinstall or archfi will work too)
 - `lightdm` (optional, but that's what I use to log in with)
 - (no lockscreen yet)
 
+--------------------------------------------------------------------------------------------------------------------------
+
 Keybindings:
 
 * Launch xfce4-terminal:    `Mod + Enter`
@@ -30,7 +37,15 @@ Keybindings:
 * Launch xfce4-taskmanager: `Control + Shift + Escape`
 * Reload i3 config:         `Mod + Shift + R`
 * Move Focus:               `Mod + directional keys`
-* 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+To Do:
+
++ add a function to 'volume' in polybar so that it opens pavucontrol with right click
++ add a function to the wifi interface text so that it opens the networkmanager applet on left click
+
+--------------------------------------------------------------------------------------------------------------------------
 
 Here's some screenshots to show what it should look like after:
 
