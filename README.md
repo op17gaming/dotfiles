@@ -36,7 +36,8 @@ install the following packages as listed below (some are optional!)**
 * Launch xfce4-taskmanager: `Control + Shift + Escape`
 * Reload i3 config:         `Mod + Shift + R`
 
-Note: most other keybindings should be the same as stock i3, except i dont use hjkl, instead I use the arrow keys. Also, for some reason, split horizontal and split vertical was swapped. now its: split horizontal = `Mod + H` and split vertical `Mod + V`. if i missed a few keybindings i didnt list, check i3-gaps's config file provided (info should be given about what does what).
+**Note: most other keybindings should be the same as stock i3, except i dont use hjkl, instead I use the arrow keys. Also, for some reason, split horizontal and split vertical was swapped. now its: split horizontal = `Mod + H` and split vertical `Mod + V`. if i missed a few keybindings i didnt list, check i3-gaps's config file provided (info should be given about what does what).**
+
 --------------------------------------------------------------------------------------------------------------------------
 
 **To Do:**
