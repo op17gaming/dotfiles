@@ -1,12 +1,12 @@
 # Dotfiles
 
-This contains the config files for my arch linux setup!
-I would really love to let you use it as you will. fork it. learn from it. use it as inspiration. let your mind go wild!
+**This contains the config files for my arch linux setup!
+I would really love to let you use it as you will. fork it. learn from it. use it as inspiration. let your mind go wild!**
 
 *************************************************************************************************************************
 
-On an (optional) fresh arch installation (archinstall or archfi will work too),
-install the following packages as listed below (some are optional!)
+**On an (optional) fresh arch installation (archinstall or archfi will work too),
+install the following packages as listed below (some are optional!)**
 
 - `yay` (what I used to install these packages)
 - `i3-gaps`
@@ -27,7 +27,7 @@ install the following packages as listed below (some are optional!)
 - (no lockscreen yet) (tell me if i missed keybindings)
 --------------------------------------------------------------------------------------------------------------------------
 
-Keybindings:
+**Keybindings:**
 
 * Launch xfce4-terminal:    `Mod + Enter`
 * Launch rofi:              `Mod + D`
@@ -39,14 +39,14 @@ Keybindings:
 **Note: most other keybindings should be the same as stock i3, except i dont use hjkl, instead I use the arrow keys. Also, for some reason, split horizontal and split vertical was swapped. now its: split horizontal = `Mod + H` and split vertical `Mod + V`. if i missed a few keybindings i didnt list, check i3-gaps's config file provided (info should be given about what does what).**
 --------------------------------------------------------------------------------------------------------------------------
 
-To Do:
+**To Do:**
 
 + add a function to 'volume' in polybar so that it opens pavucontrol with right click
 + add a function to the wifi interface text so that it opens the networkmanager applet on left click
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Here's some screenshots to show what it should look like after:
+**Here's some screenshots to show what it should look like after:**
 
 ![image](https://user-images.githubusercontent.com/66907984/171918269-535d9b8f-9c92-4d4d-a896-d05cd774041e.png)
 
