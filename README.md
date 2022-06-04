@@ -51,7 +51,7 @@ if you're on an existing installation, make sure your files are backed up :D**
 
 **Additional Info:**
 
-- I am by no means the owner of the two wallpapers. those two wallpapers provided are included in the `Dotfiles/Pictures/Wallpapers` so that when you `git clone` my repo or download it, you can just drag all the files & folders from the `Dotfiles` root directory into your home directory (if you wish to do so).
+- I am by no means the owner of the two wallpapers. those two wallpapers provided are included in the `dotfiles/Pictures/Wallpapers` so that when you `git clone` my repo or download it, you can just drag all the files & folders from the `dotfiles` root directory into your home directory (if you wish to do so).
 - the file `wallpaperflare.com_wallpaper(1).jpg` is the current wallpaper I chose.
 - the previous wallpaper `893622-OutRun-Retrowave-synthwave-purple-purple-background.png` was almost the wallpaper since i kinda liked it, but found it to be too bright.
 - *additional additional info here soon :)*
