@@ -24,8 +24,7 @@ install the following packages as listed below (some are optional!)
 - `thunar` (for file management but is optional) (make sure its dependencies like `thunar-volman` is installed)
 - `nitrogen`
 - `lightdm` (optional, but that's what I use to log in with)
-- (no lockscreen yet)
-
+- (no lockscreen yet) (tell me if i missed keybindings)
 --------------------------------------------------------------------------------------------------------------------------
 
 Keybindings:
@@ -36,8 +35,8 @@ Keybindings:
 * Launch archlinux-logout:  `Mod + X`
 * Launch xfce4-taskmanager: `Control + Shift + Escape`
 * Reload i3 config:         `Mod + Shift + R`
-* Move Focus:               `Mod + directional keys`
 
+**Note: most other keybindings should be the same as stock i3, except i dont use hjkl, instead I use the arrow keys. Also, for some reason, split horizontal and split vertical was swapped. now its: split horizontal = `Mod + H` and split vertical `Mod + V`. if i missed a few keybindings i didnt list, check i3-gaps's config file provided (info should be given about what does what).**
 --------------------------------------------------------------------------------------------------------------------------
 
 To Do:
