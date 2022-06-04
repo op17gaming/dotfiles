@@ -6,7 +6,8 @@ I would really love to let you use it as you will. fork it. learn from it. use i
 *************************************************************************************************************************
 
 **On an (optional) fresh arch installation (archinstall or archfi will work too),
-install the following packages as listed below (some are optional!)**
+install the following packages as listed below (some are optional!).
+if you're on an existing installation, make sure your files are backed up :D**
 
 - `yay` (what I used to install these packages)
 - `i3-gaps`
