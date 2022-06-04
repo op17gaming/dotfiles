@@ -25,6 +25,7 @@ install the following packages as listed below (some are optional!)**
 - `nitrogen`
 - `lightdm` (optional, but that's what I use to log in with)
 - (no lockscreen yet) (tell me if i missed keybindings)
+
 --------------------------------------------------------------------------------------------------------------------------
 
 **Keybindings:**
@@ -44,6 +45,15 @@ install the following packages as listed below (some are optional!)**
 
 + add a function to 'volume' in polybar so that it opens pavucontrol with right click
 + add a function to the wifi interface text so that it opens the networkmanager applet on left click
+
+--------------------------------------------------------------------------------------------------------------------------
+
+**Additional Info:**
+
+> I am by no means the owner of the two wallpapers. those two wallpapers provided are included in the `Dotfiles/Pictures/Wallpapers` so that when you `git clone` my repo or download it, you can just drag all the files & folders from the `Dotfiles` root directory into your home directory (if you wish to do so).
+> the file `wallpaperflare.com_wallpaper(1).jpg` is the current wallpaper I chose.
+> the previous wallpaper `893622-OutRun-Retrowave-synthwave-purple-purple-background.png` was almost the wallpaper since i kinda liked it, but found it to be too bright.
+> *additional additional info here soon :)*
 
 --------------------------------------------------------------------------------------------------------------------------
 
