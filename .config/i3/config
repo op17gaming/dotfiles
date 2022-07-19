@@ -190,6 +190,6 @@ bindsym Print exec --no-startup-id flameshot gui
 exec --no-startup-id nitrogen --set-auto '/home/op17/Pictures/Wallpapers/wallpaperflare.com_wallpaper (1).jpg'  
 
 # lowers my mouse sensitivity (i have a large mousepad and i'm a low-sens user)
-exec xinput --set-prop 12 "Device Accel Constant Deceleration" 0.1
+exec xinput --set-prop 'PixArt Lenovo USB Optical Mouse' "libinput Accel Speed" -1
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
